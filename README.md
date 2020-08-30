@@ -2,10 +2,11 @@
 
 ### 🔭 I’m currently working on ...
 
- - [x] Making Projects
-- [x] Creating Portfolio Website
-- [x] Creating a Resume
-- [ ] Applications
+- [x] 🔧 Making Projects
+- [x] 💻 Creating Portfolio Website
+- [x] 📄 Creating a Resume
+- [ ] 🤵 Internship Applications
+- [ ] 🎓 Graduate
 
 ### 🔨 My repositories ...
 
@@ -13,10 +14,8 @@
 
 ### 🌱 Stuff I've learned ...
 
-| <img height="32px" src="https://cdn.svgporn.com/logos/javascript.svg"> | <img height="32px" src="https://cdn.svgporn.com/logos/react.svg"> | <img height="32px" width="32px" src="https://cdn.svgporn.com/logos/nextjs.svg"> |  <img height="32px" width="32px" src="https://cdn.svgporn.com/logos/html-5.svg"> |
-|-|-|-|-|
-
- <img height="32px" width="32px" src="https://cdn.svgporn.com/logos/html-5.svg">
+| <img height="32px" src="https://cdn.svgporn.com/logos/javascript.svg"> | <img height="32px" src="https://cdn.svgporn.com/logos/react.svg"> | <img height="32px" width="32px" src="https://cdn.svgporn.com/logos/nextjs.svg"> |  <img height="32px" width="32px" src="https://cdn.svgporn.com/logos/html-5.svg"> | <img height="32px" width="32px" src="https://cdn.svgporn.com/logos/css-3.svg"> | <img height="32px" width="32px" src="https://cdn.svgporn.com/logos/python.svg"> | <img height="32px" width="32px" src="https://cdn.svgporn.com/logos/git-icon.svg"> |  <img height="32px" width="32px" src="https://cdn.svgporn.com/logos/figma.svg"> |
+|-|-|-|-|-|-|-|-|
 
 ### 📫 How to reach me ...
 
