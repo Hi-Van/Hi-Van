@@ -10,17 +10,19 @@
 
 ### 🔨 My projects ...
 
- - [!Picky](https://github.com/Hi-Van/Not-Picky/tree/master/my-app)
- - [Cloudy](https://github.com/Hi-Van/Word-Cloud/tree/master/word-cloud)
- - [Portfolio website v3](https://github.com/Hi-Van/hi-van.github.io)
- - [Portfolio website v4](https://github.com/Hi-Van/portfolio)
+ [!Picky](https://github.com/Hi-Van/Not-Picky/tree/master/my-app)\
+ [Cloudy](https://github.com/Hi-Van/Word-Cloud/tree/master/word-cloud)\
+ [Portfolio website v3](https://github.com/Hi-Van/hi-van.github.io)\
+ [Portfolio website v4](https://github.com/Hi-Van/portfolio)
 
 ### 🌱 Stuff I've learned ...
 
 | <img height="32px" src="https://cdn.svgporn.com/logos/javascript.svg"> | <img height="32px" src="https://cdn.svgporn.com/logos/react.svg"> | <img height="32px" width="32px" src="https://cdn.svgporn.com/logos/nextjs.svg"> |  <img height="32px" width="32px" src="https://cdn.svgporn.com/logos/html-5.svg"> | <img height="32px" width="32px" src="https://cdn.svgporn.com/logos/css-3.svg"> | <img height="32px" width="32px" src="https://cdn.svgporn.com/logos/python.svg"> | <img height="32px" width="32px" src="https://cdn.svgporn.com/logos/git-icon.svg"> |  <img height="32px" width="32px" src="https://cdn.svgporn.com/logos/figma.svg"> |
 |-|-|-|-|-|-|-|-|
 
-### 📫 How to reach me ...
+### 🙋 Social Links ...
+
+[<img height="24px" src="https://cdn.svgporn.com/logos/twitter.svg">](https://twitter.com/Hi_Im_Van) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [<img height="24px" src="https://cdn.svgporn.com/logos/linkedin.svg">](https://www.linkedin.com/in/van-s/) 
 
 ### ⚡ Fun fact: ...
 
