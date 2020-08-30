@@ -7,6 +7,10 @@
 - [x] Creating a Resume
 - [ ] Applications
 
+### 🔨 My repositories ...
+
+
+
 ### 🌱 Stuff I've learned ...
 
 | <img height="32px" src="https://cdn.svgporn.com/logos/javascript.svg"> | <img height="32px" src="https://cdn.svgporn.com/logos/react.svg"> | <img height="32px" width="32px" src="https://cdn.svgporn.com/logos/nextjs.svg"> |  <img height="32px" width="32px" src="https://cdn.svgporn.com/logos/html-5.svg"> |
