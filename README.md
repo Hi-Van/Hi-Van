@@ -21,7 +21,7 @@
 |-|-|-|-|-|-|-|-|
 
 ### 🙋 Social Links ...
-
+&nbsp;\
 [<img height="24px" src="https://cdn.svgporn.com/logos/twitter.svg">](https://twitter.com/Hi_Im_Van) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [<img height="24px" src="https://cdn.svgporn.com/logos/linkedin.svg">](https://www.linkedin.com/in/van-s/) 
 
 ### ⚡ Fun fact: ...
