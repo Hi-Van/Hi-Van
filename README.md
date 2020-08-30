@@ -8,9 +8,12 @@
 - [ ] 🤵 Internship Applications
 - [ ] 🎓 Graduate
 
-### 🔨 My repositories ...
+### 🔨 My projects ...
 
-
+ - [!Picky](https://github.com/Hi-Van/Not-Picky/tree/master/my-app)
+ - [Cloudy](https://github.com/Hi-Van/Word-Cloud/tree/master/word-cloud)
+ - [Portfolio website v3](https://github.com/Hi-Van/hi-van.github.io)
+ - [Portfolio website v4](https://github.com/Hi-Van/portfolio)
 
 ### 🌱 Stuff I've learned ...
 
