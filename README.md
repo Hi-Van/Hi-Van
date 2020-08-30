@@ -1,5 +1,9 @@
 # Woah! Hey there stranger 👋
 
+### 💬 About Me
+
+I'm Van, a sophmore in computer science at UConn. I recently took part of Summer of Shipping as a member of the core team. I'm also the founder of a student group called UConn Stamford Engineer Majors. Lately, I've been exploring skills outside of software development, like graphic design and calisthenics. When I'm not staring at my screen, I enjoy hanging out wtih my friends, excerciseing, and eating... a lot.
+
 ### 🔭 I’m currently working on ...
 
 - [x] 🔧 Making Projects
