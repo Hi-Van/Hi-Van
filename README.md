@@ -9,6 +9,8 @@ I'm Van, a sophmore in computer science at UConn. I recently took part of Summer
 - [x] 🔧 Making Projects
 - [x] 💻 Creating Portfolio Website
 - [x] 📄 Creating a Resume
+- [x] ✍ Update GitHub
+- [x] 🤝 Update LinkedIn
 - [ ] 🤵 Internship Applications
 - [ ] 🎓 Graduate
 
