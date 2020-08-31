@@ -30,7 +30,7 @@ I'm Van, a sophmore in computer science at UConn. I recently took part of Summer
 &nbsp;\
 [<img height="24px" src="https://cdn.svgporn.com/logos/twitter.svg">](https://twitter.com/Hi_Im_Van) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [<img height="24px" src="https://cdn.svgporn.com/logos/linkedin.svg">](https://www.linkedin.com/in/van-s/) 
 
-### ⚡ Fun fact: ...
+### ⚡ Fun facts: ...
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hi-van&theme=buefy&show_icons=true)](https://github.com/anuraghazra/github-readme-stats) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=hi-van&theme=buefy&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
