@@ -32,5 +32,5 @@ I'm Van, a sophmore in computer science at UConn. I recently took part of Summer
 
 ### ⚡ Fun fact: ...
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hi-van&theme=buefy&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hi-van&theme=buefy&show_icons=true)](https://github.com/anuraghazra/github-readme-stats) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=hi-van&theme=buefy&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
