@@ -21,7 +21,7 @@ I'm Van, a sophmore in computer science at UConn. I recently took part of Summer
  [Portfolio website v3](https://github.com/Hi-Van/hi-van.github.io)\
  [Portfolio website v4](https://github.com/Hi-Van/portfolio)\
  [Python Review](https://github.com/Hi-Van/python-review)\
- [Leetcode List](https://github.com/Hi-Van/Leetcode-list)\
+ [LeetCode List](https://github.com/Hi-Van/Leetcode-list)\
  [CSE 2500 Log (Private) ](https://github.com/Hi-Van/DSA-in-python)
 
 ### 🌱 Stuff I've learned ...
