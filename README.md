@@ -22,7 +22,7 @@ I'm Van, a sophmore in computer science at UConn. I recently took part of Summer
  [Portfolio website v4](https://github.com/Hi-Van/portfolio)\
  [Python Review](https://github.com/Hi-Van/python-review)\
  [JavaScript Review](https://github.com/Hi-Van/javascript-review)\
- [LeetCode List](https://github.com/Hi-Van/Leetcode-list)
+ [LeetCode List](https://github.com/Hi-Van/Leetcode-list)\
  [Data Structures & Algorithms in Javscript](https://github.com/Hi-Van/DSA-in-JavaScript)
 
 ### 🌱 Stuff I've learned ...
