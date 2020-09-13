@@ -16,10 +16,11 @@ I'm Van, a sophmore in computer science at UConn. I recently took part of Summer
 
 ### 🔨 My projects ...
 
- [!Picky](https://github.com/Hi-Van/Not-Picky/tree/master/my-app)\
- [Cloudy](https://github.com/Hi-Van/Word-Cloud/tree/master/word-cloud)\
- [Portfolio website v3](https://github.com/Hi-Van/hi-van.github.io)\
- [Portfolio website v4](https://github.com/Hi-Van/portfolio)\
+ [!Picky // IN PROGRESS](https://github.com/Hi-Van/Not-Picky/tree/master/my-app)\
+ [Cloudy](https://cloudy-word-cloud.herokuapp.com/)\
+ [Runtime](https://hi-van.github.io/runtime-sheet/)\
+ [Portfolio website v3](https://hi-van.github.io/)\
+ [Portfolio website v4](https://hi-van.github.io/portfolio/)\
  [Python Review](https://github.com/Hi-Van/python-review)\
  [JavaScript Review](https://github.com/Hi-Van/javascript-review)\
  [LeetCode List](https://github.com/Hi-Van/Leetcode-list)\
