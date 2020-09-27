@@ -11,7 +11,7 @@ I'm Van, a sophmore in computer science at UConn. I recently took part of Summer
 - [x] 📄 Creating a Resume
 - [x] ✍ Update GitHub
 - [x] 🤝 Update LinkedIn
-- [ ] 🤵 Internship Applications
+- [ ] 🤵 Internships
 - [ ] 🎓 Graduate
 
 ### 🔨 My projects ...
