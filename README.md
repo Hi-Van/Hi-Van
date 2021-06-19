@@ -11,7 +11,8 @@ I'm Van, a junior in computer science at UConn. I recently took part of Summer o
 - [x] 📄 Creating a Resume
 - [x] ✍ Update GitHub
 - [x] 🤝 Update LinkedIn
-- [ ] 🤵 Internships
+- [x] 🤵 Sophmore Internship -> EPC
+- [ ] 🤵 Junior Internship
 - [ ] 🎓 Graduate
 
 ### 🔨 My projects ...
