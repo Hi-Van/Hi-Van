@@ -12,7 +12,7 @@ I'm Van, a junior in computer science at UConn. I recently took part of Summer o
 - [x] ✍ Update GitHub
 - [x] 🤝 Update LinkedIn
 - [x] 🤵 Sophmore Internship - <b>Edgewell Personal Care</b>
-- [x] 🤵 Junior Internship - <b>Meta (Prev. Facebook)</b>
+- [x] 🤵 Junior Internship - <b>Meta (Pka. Facebook)</b>
 - [ ] 🎓 Graduate
 
 ### 🔨 My projects ...
