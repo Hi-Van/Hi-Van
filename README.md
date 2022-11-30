@@ -2,7 +2,7 @@
 
 ### 💬 About Me
 
-I'm Van, a junior in computer science at UConn. I recently took part of Summer of Shipping as a member of the core team. I'm also the founder of a student group called UConn Stamford Engineer Majors. Lately, I've been exploring skills outside of software development, like graphic design and calisthenics. When I'm not staring at my screen, I enjoy hanging out wtih my friends, excercising, and eating... a lot.
+I'm Van, a Senior in computer science at UConn. I recently took part of Summer of Shipping as a member of the core team. I'm also the founder of a student group called UConn Stamford Engineer Majors. Lately, I've been exploring skills outside of software development, like graphic design and calisthenics. When I'm not staring at my screen, I enjoy hanging out wtih my friends, excercising, and eating... a lot.
 
 ### 🔭 I’m currently working on ...
 
@@ -12,18 +12,17 @@ I'm Van, a junior in computer science at UConn. I recently took part of Summer o
 - [x] ✍ Update GitHub
 - [x] 🤝 Update LinkedIn
 - [x] 🤵 Sophmore Internship - <b>Edgewell Personal Care</b>
-- [x] 🤵 Junior Internship - <b>Meta (Pka. Facebook)</b>
-- [ ] 🤵 Full Time Offer - <b>TBD<b>
+- [x] 🤵 Junior Internship - <b>Meta</b> <i>(Pka. Facebook)</i>
+- [x] 🤵 Senior Internship - <b>Synchrony Financial</b>
+- [x] 🤵 Full Time Offer - <b>Walmart Global Tech</b> <i>(and possibly more to come..)</i>
 - [ ] 🎓 Graduate
 
 ### 🔨 My projects ...
 
- [!Picky // IN PROGRESS](https://github.com/Hi-Van/Not-Picky/tree/master/my-app)\
  [Cloudy](https://cloudy-word-cloud.herokuapp.com/)\
  [Preeepare](https://hi-van.github.io/preeepare/)\
  [Runtime](https://hi-van.github.io/runtime-sheet/)\
- [Portfolio website v3](https://hi-van.github.io/)\
- [Portfolio website v5](https://hi-van.github.io/portfolio/)\
+ [Portfolio website v7](https://vansiriso.uk/)\
  [Python Review](https://github.com/Hi-Van/python-review)\
  [JavaScript Review](https://github.com/Hi-Van/javascript-review)\
  [LeetCode List](https://github.com/Hi-Van/Leetcode-list)
