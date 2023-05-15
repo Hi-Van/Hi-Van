@@ -15,7 +15,7 @@ I'm Van, a Senior in computer science at UConn. I recently took part of Summer o
 - [x] 🤵 Junior Internship - <b>Meta</b> <i>(Pka. Facebook)</i>
 - [x] 🤵 Senior Internship - <b>Synchrony Financial</b>
 - [x] 🤵 Full Time Offer - <b>Walmart Global Tech</b> <i>(and possibly more to come..)</i>
-- [x] 🎓 Graduate - UConn '23 B.S. in Computer Science
+- [x] 🎓 Graduate - **UConn '23 B.S. in Computer Science**
 
 ### 🔨 My projects ...
 
