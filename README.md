@@ -19,7 +19,7 @@ I'm Van, a software engineer at Walmart. I've previously worked as; Software Eng
 
 ### 🔨 My projects ...
 
- [Portfolio website v8](https://vansiriso.uk/)\
+ [Portfolio website v8](https://vansiriso.uk/)
 
 ### 🌱 Stuff I've learned ...
 
