@@ -19,13 +19,7 @@ I'm Van, a software engineer at Walmart. I've previously worked as; Software Eng
 
 ### 🔨 My projects ...
 
- [Cloudy](https://cloudy-word-cloud.herokuapp.com/)\
- [Preeepare](https://hi-van.github.io/preeepare/)\
- [Runtime](https://hi-van.github.io/runtime-sheet/)\
- [Portfolio website v7](https://vansiriso.uk/)\
- [Python Review](https://github.com/Hi-Van/python-review)\
- [JavaScript Review](https://github.com/Hi-Van/javascript-review)\
- [LeetCode List](https://github.com/Hi-Van/Leetcode-list)
+ [Portfolio website v8](https://vansiriso.uk/)\
 
 ### 🌱 Stuff I've learned ...
 
