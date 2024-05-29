@@ -2,7 +2,7 @@
 
 ### 💬 About Me
 
-I'm Van, a software engineer at Walmart. I've previously worked as; Software Engineer Intern at Meta, Software Engineer Intern at Synchrony Financial, and QA & Systems Engineer Intern at Edgewell Personal Care. You can find me scrolling down dribbble or awwwards in my free time... when I'm not staring at my screen. I enjoy hanging out wtih my friends, excercising, and eating... a lot.
+I'm Van, a software engineer at Walmart. I've previously worked as a Software Engineer Intern at Meta, Software Engineer Intern at Synchrony Financial, and QA & Systems Engineer Intern at Edgewell Personal Care. You can find me scrolling down dribbble or awwwards in my free time... when I'm not staring at my screen. I enjoy hanging out wtih my friends, excercising, and eating... a lot.
 
 ### 🔭 I’m currently working on ...
 
@@ -16,6 +16,7 @@ I'm Van, a software engineer at Walmart. I've previously worked as; Software Eng
 - [x] 🤵 Senior Internship - <b>Synchrony Financial</b>
 - [x] 🤵 Full Time Offer - <b>Walmart Global Tech</b>
 - [x] 🎓 Graduate - **UConn '23 B.S. in Computer Science**
+- [ ] 📑 Specialist on Codeforces
 
 ### 🔨 My projects ...
 
